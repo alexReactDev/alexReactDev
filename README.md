@@ -15,4 +15,4 @@
 
 💼 Wanna hire me?
 - Look at my resume http://cv-en.alexander-portfolio-and-cv.com
-- And my portfoliio https://github.com/alexReactDev/portfolio_en
+- And my portfolio https://github.com/alexReactDev/portfolio_en
