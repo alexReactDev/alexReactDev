@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**alexReactDev/alexReactDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😃 My name is Alex
+- 🔭 I’m currently looking for job, learning new technologies, improving skills
+- 🌱 I’m currently learning next, react native
+- 👨‍🎓 I want to learn mobx, vue, angular
+- ⚛ I'm interested in web development, frontend and react ecosystem
+- 💪 I'm really into self-improvement
+- 🌍 My hobbies are travelling, reading and making new friends
+- ⚡ Fun fact: Javascript's name isn't javascript since 1997
 
-Here are some ideas to get you started:
+✉ My contacts
+- Email: alexander.work.mailbox@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alex-react-dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Wanna hire me?
+- Look at my resume http://cv-en.alexander-portfolio-and-cv.com
+- And my portfoliio https://github.com/alexReactDev/portfolio_en
