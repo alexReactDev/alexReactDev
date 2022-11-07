@@ -11,7 +11,7 @@
 
 ✉ My contacts
 - Email: alexander.work.mailbox@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alex-react-dev/
+- LinkedIn: https://www.linkedin.com/in/alexReactDev
 
 💼 Wanna hire me?
 - Look at my resume http://cv-en.alexander-portfolio-and-cv.com
